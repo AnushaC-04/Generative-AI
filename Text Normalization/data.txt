@@ -1,0 +1,7 @@
+Open                 file and return a stream Dont stop!!!  Raise OSError upon failure
+  formt id strng file is either   a text   or byte   string giving the name and the   path
+if the file  isnt in the current  working   directory of the file to
+be opened or an integer file  descriptor of the file to be
+wrapped     If   a file descriptor is given it is closed when   the
+returned IO   object is closed   unless  closefd is set to False
+😭😭😭😒😒😒
